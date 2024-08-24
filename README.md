@@ -4,6 +4,7 @@
 - Internet Service Churn Prediction using Deep Learning (Tensorflow and Keras).
 - The Problem was of Classification type where we have to predict whether a customer will end the services from te given
 firm on the basis of certain parameters.
+- The dataset is taken from Kaggle.
 
 # ${\color{lightblue} Table}$
 
